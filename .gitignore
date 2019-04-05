@@ -6,3 +6,6 @@ __pycache__
 **/.DS_Store
 **/.ipynb_chechpoints
 **/__pycache__
+
+# Output of gitbook documentation
+_book
