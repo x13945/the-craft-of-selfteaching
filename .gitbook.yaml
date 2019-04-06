@@ -1,0 +1,5 @@
+root: ./
+
+structure:
+  readme: ./markdown/README.md
+  summary: ./markdown/SUMMARY.md
